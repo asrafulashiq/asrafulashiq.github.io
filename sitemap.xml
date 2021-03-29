@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://asrafulashiq.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://asrafulashiq.github.io/publication-type/3/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://asrafulashiq.github.io/publication/broad_tfm/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://asrafulashiq.github.io/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://asrafulashiq.github.io/publication_types/</loc>
@@ -23,11 +29,41 @@
     <loc>https://asrafulashiq.github.io/publication/hamnet/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://asrafulashiq.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://asrafulashiq.github.io/publication/doagan/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://asrafulashiq.github.io/publication/dml/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://asrafulashiq.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://asrafulashiq.github.io/publication/corr/</loc>
     <lastmod>2018-09-28T00:00:00+00:00</lastmod>
@@ -41,11 +77,6 @@
     <loc>https://asrafulashiq.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://asrafulashiq.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://asrafulashiq.github.io/admin/</loc>
-  </url><url>
-    <loc>https://asrafulashiq.github.io/categories/</loc>
   </url>
 </urlset>
