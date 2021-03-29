@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>A Broad Study on the Transferability of Visual Representations with Contrastive Learning</title>
+      <link>https://asrafulashiq.github.io/publication/broad_tfm/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/broad_tfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization </title>
+      <link>https://asrafulashiq.github.io/publication/hamnet/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/hamnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://asrafulashiq.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -107,6 +123,22 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-move Forgery Detection and Localization</title>
+      <link>https://asrafulashiq.github.io/publication/doagan/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/doagan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Temporal Action Localization Using Deep Metric Learning</title>
+      <link>https://asrafulashiq.github.io/publication/dml/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/dml/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -239,6 +271,14 @@ Three
     </item>
     
     <item>
+      <title>Correlating Belongings with Passengers in a Simulated Airport Security Checkpoint</title>
+      <link>https://asrafulashiq.github.io/publication/corr/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/corr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://asrafulashiq.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -252,45 +292,10 @@ Three
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://asrafulashiq.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://asrafulashiq.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://asrafulashiq.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://asrafulashiq.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Broad Study on the Transferability of Visual Representations with Contrastive Learning</title>
-      <link>https://asrafulashiq.github.io/publication/broad_tfm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://asrafulashiq.github.io/publication/broad_tfm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization </title>
-      <link>https://asrafulashiq.github.io/publication/hamnet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://asrafulashiq.github.io/publication/hamnet/</guid>
       <description></description>
     </item>
     
