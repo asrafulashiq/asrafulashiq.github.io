@@ -31,5 +31,21 @@
 </description>
     </item>
     
+    <item>
+      <title>A Broad Study on the Transferability of Visual Representations with Contrastive Learning</title>
+      <link>https://asrafulashiq.github.io/publication/broad_tfm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/broad_tfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization </title>
+      <link>https://asrafulashiq.github.io/publication/hamnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/hamnet/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
