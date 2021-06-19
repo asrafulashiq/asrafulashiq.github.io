@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Graduate Research Assistant" />
+  <meta name="description" content="We propose a simple dynamic distillation-based approach to facilitate unlabeled images from the novel/base dataset. We impose consistency regularization by calculating predictions from the weakly-augmented versions of the unlabeled images from a teacher network and matching it with the strongly augmented versions of the same images from a student network. The parameters of the teacher network are updated as exponential moving average of the parameters of the student network. We show that the proposed network learns representation that can be easily adapted to the target domain even though it has not been trained with target-specific classes during the pretraining phase." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://asrafulashiq.github.io/publication_types/" />
+  <link rel="alternate" hreflang="en-us" href="https://asrafulashiq.github.io/publication/dynamic/" />
 
   
 
@@ -265,8 +265,6 @@
   
 
   
-    <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Ashraful" />
-  
 
   
     <link rel="manifest" href="/index.webmanifest" />
@@ -275,7 +273,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://asrafulashiq.github.io/publication_types/" />
+  <link rel="canonical" href="https://asrafulashiq.github.io/publication/dynamic/" />
 
   
   
@@ -292,33 +290,80 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Ashraful" />
-  <meta property="og:url" content="https://asrafulashiq.github.io/publication_types/" />
-  <meta property="og:title" content="Publication_types | Ashraful" />
-  <meta property="og:description" content="Graduate Research Assistant" /><meta property="og:image" content="https://asrafulashiq.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://asrafulashiq.github.io/publication/dynamic/" />
+  <meta property="og:title" content="Dynamic Distillation Network for Cross-Domain Few-Shot Recognition with Unlabeled Data | Ashraful" />
+  <meta property="og:description" content="We propose a simple dynamic distillation-based approach to facilitate unlabeled images from the novel/base dataset. We impose consistency regularization by calculating predictions from the weakly-augmented versions of the unlabeled images from a teacher network and matching it with the strongly augmented versions of the same images from a student network. The parameters of the teacher network are updated as exponential moving average of the parameters of the student network. We show that the proposed network learns representation that can be easily adapted to the target domain even though it has not been trained with target-specific classes during the pretraining phase." /><meta property="og:image" content="https://asrafulashiq.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://asrafulashiq.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2021-06-10T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2021-06-10T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2021-06-10T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://asrafulashiq.github.io/publication/dynamic/"
+  },
+  "headline": "Dynamic Distillation Network for Cross-Domain Few-Shot Recognition with Unlabeled Data",
+  
+  "datePublished": "2021-06-10T00:00:00Z",
+  "dateModified": "2021-06-10T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "A Islam"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "RPI",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://asrafulashiq.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "We propose a simple dynamic distillation-based approach to facilitate unlabeled images from the novel/base dataset. We impose consistency regularization by calculating predictions from the weakly-augmented versions of the unlabeled images from a teacher network and matching it with the strongly augmented versions of the same images from a student network. The parameters of the teacher network are updated as exponential moving average of the parameters of the student network. We show that the proposed network learns representation that can be easily adapted to the target domain even though it has not been trained with target-specific classes during the pretraining phase."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>Publication_types | Ashraful</title>
+  <title>Dynamic Distillation Network for Cross-Domain Few-Shot Recognition with Unlabeled Data | Ashraful</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a90135a1bed1b8f7f77df401a79cabfd" >
 
   
   
@@ -669,6 +714,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -676,48 +732,330 @@
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>Dynamic Distillation Network for Cross-Domain Few-Shot Recognition with Unlabeled Data</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      A Islam</span>, <span >
+      R Chen</span>, <span >
+      R Panda</span>, <span >
+      L Karlinksky</span>, <span >
+      RS Feris</span>, <span >
+      RJ Radke</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2106.07807" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/dynamic/cite.bib">
+  Cite
+</a>
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Publication_types</h1>
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/asrafulashiq/dynamic-cdfsl" target="_blank" rel="noopener">
+  Code
+</a>
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
+    
+
     
     
-    
-    <div>
-      <h2><a href="/publication-type/3/" >3</a></h2>
-      <div class="article-style">
-        
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#3">
+              Preprint
+            </a>
+          </div>
+        </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
-  
+    <div class="d-md-none space-below"></div>
     
+
     
-    
-    <div>
-      <h2><a href="/publication-type/1/" >1</a></h2>
-      <div class="article-style">
-        
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">arXiv</div>
+        </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://asrafulashiq.github.io/publication/dynamic/&amp;text=Dynamic%20Distillation%20Network%20for%20Cross-Domain%20Few-Shot%20Recognition%20with%20Unlabeled%20Data" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://asrafulashiq.github.io/publication/dynamic/&amp;t=Dynamic%20Distillation%20Network%20for%20Cross-Domain%20Few-Shot%20Recognition%20with%20Unlabeled%20Data" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Dynamic%20Distillation%20Network%20for%20Cross-Domain%20Few-Shot%20Recognition%20with%20Unlabeled%20Data&amp;body=https://asrafulashiq.github.io/publication/dynamic/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://asrafulashiq.github.io/publication/dynamic/&amp;title=Dynamic%20Distillation%20Network%20for%20Cross-Domain%20Few-Shot%20Recognition%20with%20Unlabeled%20Data" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Dynamic%20Distillation%20Network%20for%20Cross-Domain%20Few-Shot%20Recognition%20with%20Unlabeled%20Data%20https://asrafulashiq.github.io/publication/dynamic/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://asrafulashiq.github.io/publication/dynamic/&amp;title=Dynamic%20Distillation%20Network%20for%20Cross-Domain%20Few-Shot%20Recognition%20with%20Unlabeled%20Data" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
 </div>
   </div>
 
