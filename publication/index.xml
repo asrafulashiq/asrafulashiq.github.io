@@ -5,7 +5,7 @@
     <link>https://asrafulashiq.github.io/publication/</link>
       <atom:link href="https://asrafulashiq.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://asrafulashiq.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>A Broad Study on the Transferability of Visual Representations with Contrastive Learning</title>
-      <link>https://asrafulashiq.github.io/publication/broad_tfm/</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://asrafulashiq.github.io/publication/broad_tfm/</guid>
+      <title>Dynamic Distillation Network for Cross-Domain Few-Shot Recognition with Unlabeled Data</title>
+      <link>https://asrafulashiq.github.io/publication/dynamic/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/dynamic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dynamic Distillation Network for Cross-Domain Few-Shot Recognition with Unlabeled Data</title>
-      <link>https://asrafulashiq.github.io/publication/dynamic/</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://asrafulashiq.github.io/publication/dynamic/</guid>
+      <title>A Broad Study on the Transferability of Visual Representations with Contrastive Learning</title>
+      <link>https://asrafulashiq.github.io/publication/broad_tfm/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://asrafulashiq.github.io/publication/broad_tfm/</guid>
       <description></description>
     </item>
     
